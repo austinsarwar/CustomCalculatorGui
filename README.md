@@ -1,21 +1,28 @@
-Modern Calculator GUI
-This is a simple calculator GUI built using Python and the tkinter library. The GUI includes buttons for numerical input, as well as operators such as addition, subtraction, multiplication, and division.
+# Simple Calculator GUI
 
-Features
-User-friendly interface with a sleek and modern design.
-Clear button for resetting the calculator's input.
-Equal button for evaluating the input expression and displaying the result.
-Responsive design that scales with different window sizes.
-Dark mode option for reduced eye strain during extended use.
-Requirements
-Python 3.x
-tkinter library
-Usage
-Run the calculator.py file using a Python interpreter.
-Click the number buttons to enter numerical values.
-Click the operation buttons to apply the corresponding mathematical operation.
-Use the "C" button to clear the calculator's input.
-Click the "=" button to evaluate the input expression and display the result.
-Use the "Dark Mode" checkbox to switch to a darker color scheme.
-License
-This project is licensed under the MIT License. Feel free to use and modify this code for personal or commercial use.
+This is a simple calculator GUI built using the `tkinter` module and a custom `customtkinter` module for styling. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- User-friendly interface
+- Can perform basic arithmetic operations
+- Can clear the input field
+- Can evaluate the expression and display the result
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/<username>/<repository>`
+2. Install the required modules: `pip install -r requirements.txt`
+3. Run the program: `python calculator.py`
+
+## Usage
+
+1. Enter a number using the number buttons on the calculator.
+2. Use the operation buttons to perform basic arithmetic operations.
+3. To clear the input field, press the "C" button.
+4. To evaluate the expression, press the "=" button.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
