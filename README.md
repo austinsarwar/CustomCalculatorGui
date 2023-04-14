@@ -1,4 +1,5 @@
 # Simple Calculator GUI
+<img src="https://i.imgur.com/example.jpg" alt="screenshot of calculator GUI">
 
 This is a simple calculator GUI built using the `tkinter` module and a custom `customtkinter` module for styling. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
