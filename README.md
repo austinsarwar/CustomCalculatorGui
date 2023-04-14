@@ -1,5 +1,5 @@
 # Simple Calculator GUI
-[Link text](https://imgur.com/gallery/XMAUR2G)
+[View project screenshots on Imgur](https://imgur.com/gallery/XMAUR2G)
 
 
 
