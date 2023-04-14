@@ -25,9 +25,11 @@ frame = customtkinter.CTkFrame(master=root)
 frame.grid(row=0, column=0, sticky='nsew')
 
 
-# Create an entry widget to display the calculator's input
+# Create an entry widget to display the calculator's output
 entry = customtkinter.CTkEntry(master=frame)
-entry.configure(font=("Calibri",20))
+entry.configure(font=("Calibri",20), height=50)
+
+
 entry.grid(row=0, column=0, columnspan=4, padx=10, pady=12, sticky="ew")
 
 
