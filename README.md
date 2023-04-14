@@ -1,5 +1,6 @@
 # Simple Calculator GUI
-[![Calculator GUI Custom Tkinter](https://i.imgur.com/fKfpgJW.png)](https://imgur.com/gallery/XMAUR2G)
+[Link text](https://imgur.com/gallery/XMAUR2G)
+
 
 
 
