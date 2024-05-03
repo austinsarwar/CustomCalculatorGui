@@ -26,7 +26,5 @@ This is a simple calculator GUI built using the `tkinter` module and a custom `c
 3. To clear the input field, press the "C" button.
 4. To evaluate the expression, press the "=" button.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
