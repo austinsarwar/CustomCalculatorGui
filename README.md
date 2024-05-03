@@ -1,6 +1,10 @@
 # Simple Calculator GUI
 [View project screenshots on Imgur](https://imgur.com/gallery/XMAUR2G)
+## Installation
 
+1. Clone the repository: `git clone https://github.com/austinsarwar/CustomCalculatorGui.git`
+2. Install the required modules: `pip install -r requirements.txt`
+3. Run the program: `python calculator.py`
 
 
 
@@ -13,11 +17,7 @@ This is a simple calculator GUI built using the `tkinter` module and a custom `c
 - Can clear the input field
 - Can evaluate the expression and display the result
 
-## Installation
 
-1. Clone the repository: `git clone https://github.com/austinsarwar/github.com/austinsarwar/CustomCalculatorGui`
-2. Install the required modules: `pip install -r requirements.txt`
-3. Run the program: `python calculator.py`
 
 ## Usage
 
