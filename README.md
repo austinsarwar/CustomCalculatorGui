@@ -4,7 +4,7 @@
 
 1. Clone the repository: `git clone https://github.com/austinsarwar/CustomCalculatorGui.git`
 2. Install the required modules: `pip install -r requirements.txt`
-3. Run the program: `python calculator.py`
+3. Run the program: ` calc_gui.py`
 
 
 
