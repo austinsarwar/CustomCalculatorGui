@@ -15,7 +15,7 @@ This is a simple calculator GUI built using the `tkinter` module and a custom `c
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/<username>/<repository>`
+1. Clone the repository: `git clone https://github.com/austinsarwar/github.com/austinsarwar/CustomCalculatorGui`
 2. Install the required modules: `pip install -r requirements.txt`
 3. Run the program: `python calculator.py`
 
